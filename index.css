@@ -1,0 +1,23 @@
+html{
+	 min-width: 100%;
+	min-height: 100%;
+	}
+	header{
+	background-color = #010101;
+	}
+	body{			
+	background-color = #242424;
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	}
+		body{font-family: Century Gothic;
+		}
+		body{<p style="color:white">;}
+
+		.tw{color: white}
+		.custom-file-upload {
+	color:white;
+	font-family:Century Gothic;
+		}
+/**/
